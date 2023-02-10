@@ -10,6 +10,7 @@
 #### Dimension 2,3,5 and 10:
 - data plots: [COCO](P4K10\MUTLI_DIM\index.html)
 - budget: 1e4
+### Data for LQ/COMO with `popsize_factor=1`:
 #### Dimension 2,3,5,10 and 20:
 - data plots: [COCO](data_1\index.html)
 - budget: 1e2

@@ -18,4 +18,8 @@
 #### Dimension 2,3,5,10 and 20:
 - data plots for ker only: [COCO-ker-only](budget-1000-D\data_ker_only\index.html)
 - data plots for ker only: [COCO-archive](budget-1000-D\data_All\index.html)
-- budget: 1e3 $\times$ D
+- budget: 1e3
+
+#### Check AllComo with sigma = sqrt(dimension)
+- data : [COCO](check)
+- budget = 1e3

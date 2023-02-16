@@ -27,3 +27,6 @@
 #### Single algorithms check:
 - kerLQ : [single-post](data_kerLQ/index.html)
 - kerComo : [single-post](data_KerComo/index.html)
+
+#### Budget multiplier = 1e4
+- [Data for ker assessement](data_ker_1e4/index.html)

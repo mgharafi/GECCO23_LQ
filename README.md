@@ -23,3 +23,7 @@
 #### Check AllComo with sigma = sqrt(dimension)
 - data : [COCO](check)
 - budget = 1e3
+
+#### Single algorithms check:
+- kerLQ : [single-post](data_kerLQ/index.html)
+- kerComo : [single-post](data_KerComo/index.html)

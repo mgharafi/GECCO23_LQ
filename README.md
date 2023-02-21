@@ -30,3 +30,13 @@
 
 #### Budget multiplier = 1e4
 - [Data for ker assessement](data_ker_1e4/index.html)
+
+#### With empty iterations
+
+The update rules are managed by the following predicate:
+
+```python
+def update_rules(kernel):
+    return kernel.countiter % 2 == 1 or not kernel.countiter > 1
+```
+- the coco data for a budget multiplier = 1000 : [ker-data](./data-ex-ker-b1000/kerLQ_LQ-sk_COMO-/index.html), [standard-data](./data-ex-all-b1000/AllLQ_AllLQ_COMO-/index.html)

@@ -40,3 +40,8 @@ def update_rules(kernel):
     return kernel.countiter % 2 == 1 or not kernel.countiter > 1
 ```
 - the coco data for a budget multiplier = 1000 : [ker-data](./data-ex-ker-b1000/kerLQ_LQ-sk_COMO-/index.html), [standard-data](./data-ex-all-b1000/AllLQ_AllLQ_COMO-/index.html)
+
+# COCO data with model optimum injection
+
+## [Standard assessment with `budget_multiplier=1e4`](customnpp/data-standard-b10000/)
+## [Kernel only assessment with `budget_multiplier=1e4`](customnpp/data-ker-b10000/)

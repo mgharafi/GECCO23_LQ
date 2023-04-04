@@ -7,7 +7,8 @@
 
 # COCO data for 100 kernels:
 
-## [standard assessment](MO-CM_N-III_Como_LQ/index.html)
+## [standard assessment of all algs](MO-CM_N-III_Como_LQ/index.html)
+## [compare assessments of LQ and COMO](data-100kassessments/kerLQ_kerCo_LQ_Como/index.html)
 
 ---
   
